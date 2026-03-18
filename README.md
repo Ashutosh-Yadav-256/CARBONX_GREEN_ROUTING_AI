@@ -1,21 +1,21 @@
-# 🤖 AI Chatbot — Multi-Tool Intelligent Assistant
+# AI Chatbot — Multi-Tool Intelligent Assistant
 
 A full-stack AI chatbot demonstrating **conversational AI**, **web search**, **image generation**, and **RAG (Retrieval-Augmented Generation)** — all using free, open-source tools.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Tool | Description |
 |---------|------|-------------|
-| 💬 **Chat** | Ollama (Llama 3.2) | Local LLM for conversational AI |
-| 🔍 **Web Search** | DuckDuckGo | Real-time web search, no API key |
-| 🎨 **Image Gen** | Stable Diffusion | AI image generation |
-| 📚 **Knowledge (RAG)** | FAISS + MiniLM | Query your own documents |
+| **Chat** | Ollama (Llama 3.2) | Local LLM for conversational AI |
+| **Web Search** | DuckDuckGo | Real-time web search, no API key |
+| **Image Gen** | Stable Diffusion | AI image generation |
+| **Knowledge (RAG)** | FAISS + MiniLM | Query your own documents |
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 User → Frontend (HTML/CSS/JS) → FastAPI Backend → LangChain Agent
@@ -27,7 +27,7 @@ User → Frontend (HTML/CSS/JS) → FastAPI Backend → LangChain Agent
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AI-Chatbot-Project/
@@ -53,7 +53,7 @@ AI-Chatbot-Project/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ Visit: **http://localhost:8000**
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### Quick Commands
 
@@ -126,7 +126,7 @@ Key settings:
 
 ---
 
-## 💻 Hardware Requirements
+## Hardware Requirements
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
@@ -136,7 +136,7 @@ Key settings:
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes. All tools used are free and open-source.
 
