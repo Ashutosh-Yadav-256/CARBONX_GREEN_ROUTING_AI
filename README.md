@@ -142,4 +142,4 @@ This project is for educational purposes. All tools used are free and open-sourc
 
 ---
 
-Built with ❤️ using FastAPI, LangChain, Ollama, and Stable Diffusion.
+
